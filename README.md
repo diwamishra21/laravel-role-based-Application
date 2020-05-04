@@ -35,12 +35,10 @@ C:\xampp\htdocs\e-proctoring\resources\lang\en
 
 ## Deploying code on ec2 windows server
 
-run command-
-php artisan serve --host 0.0.0.0 --port 8000
-
-Now goto ur public Ip and access ur project-
-http://ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com
-(In AWS u have to allow 8000 and 80 and whatever port u want to access in inbound rules)
-
-If port used is 8000
-http://ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com:8000
+- run command-
+> php artisan serve --host 0.0.0.0 --port 8000
+- Now goto ur public Ip and access ur project-
+> http://ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com
+> (In AWS u have to allow 8000 and 80 and whatever port u want to access in inbound rules)
+- If port used is 8000
+> http://ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com:8000
