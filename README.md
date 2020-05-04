@@ -26,12 +26,12 @@
 - password - password
 
 ## Structure Basic Details-
-routes-
-C:\xampp\htdocs\e-proctoring\routes\web.php
-left menu-
-C:\xampp\htdocs\e-proctoring\resources\views\partials\menu.blade.php
-constant values-
-C:\xampp\htdocs\e-proctoring\resources\lang\en
+- routes-
+> C:\xampp\htdocs\e-proctoring\routes\web.php
+- left menu-
+> C:\xampp\htdocs\e-proctoring\resources\views\partials\menu.blade.php
+- constant values-
+> C:\xampp\htdocs\e-proctoring\resources\lang\en
 
 ## Deploying code on ec2 windows server
 
